@@ -1,0 +1,1 @@
+Update server of Menoria's launcher
